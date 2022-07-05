@@ -1,0 +1,26 @@
+{
+  "name": "Space Thonk #4",
+  "description": "A cuddly Space Thonk",
+  "image": "https://raw.githubusercontent.com/tiffanydys/space-thonk/main/images/4.png",
+  "attributes": [
+    {
+      "trait_type": "Base Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Baloon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hoodie",
+      "value": "Green"
+    }
+  ],
+  "edition": 1,
+  "external_url": "",
+  "date": 1656098237176
+}
